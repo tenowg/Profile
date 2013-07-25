@@ -1,10 +1,10 @@
 
 package com.thedemgel.profile;
 
-import org.spout.api.plugin.CommonPlugin;
+import org.spout.api.plugin.Plugin;
 
 
-public class Profile extends CommonPlugin {
+public class Profile extends Plugin {
 
 	@Override
 	public void onEnable() {
